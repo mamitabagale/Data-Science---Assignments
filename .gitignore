@@ -1,0 +1,6 @@
+# Ignore OS and runtime logs
+.DS_Store
+logs.log
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
